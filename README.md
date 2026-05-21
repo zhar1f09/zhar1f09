@@ -16,15 +16,6 @@
 ---
 
 ### About Me
-<summary><h3>My Coding Journey (click to read)</h3></summary>
-
-I didn’t start out as a “natural” coder. My first lines of code were messy HTML tweaks on Neopets when I was 13. But the moment I saw a command actually *do* something — that was it. I was hooked.
-
-In high school, I taught myself Java to build a simple calculator app. Then came Python, then web dev, then full‑stack. Along the way, I realized that coding isn’t just about syntax — it’s about solving real problems for real people.
-
-Now I work on projects that combine design, logic, and creativity. Every line of code is a small step toward something meaningful. And I’m just getting started.
-
-</details>
 
 I'm **Zhar** – a passionate **Developer, Designer, and Programmer** who loves turning ideas into real, working software.  
 I focus on clean code, smooth user experiences, and tools that actually help people.
@@ -58,6 +49,18 @@ I focus on clean code, smooth user experiences, and tools that actually help peo
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+---
+
+<summary><h3>My Coding Journey (click to read)</h3></summary>
+
+I didn’t start out as a “natural” coder. My first lines of code were messy HTML tweaks on Neopets when I was 13. But the moment I saw a command actually *do* something — that was it. I was hooked.
+
+In high school, I taught myself Java to build a simple calculator app. Then came Python, then web dev, then full‑stack. Along the way, I realized that coding isn’t just about syntax — it’s about solving real problems for real people.
+
+Now I work on projects that combine design, logic, and creativity. Every line of code is a small step toward something meaningful. And I’m just getting started.
+
+</details>
 
 ---
 
