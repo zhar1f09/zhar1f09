@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Hello! I'm Zhar />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D3748&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zhar+%F0%9F%8C%B8;Digital+Coder+%7C+Developer+%7C+Designer;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,12 +15,12 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm **Zhar** – a passionate **Developer, Designer, and Programmer** who loves turning ideas into real, working software.  
 I focus on clean code, smooth user experiences, and tools that actually help people.
 
-- 🔭 Currently building: **full-stack web apps & Discord bots**
+- Currently building: **full-stack web apps & Discord bots**
 - 🌱 Learning: **Rust & advanced system design**
 - 💬 Ask me about: **TypeScript, React, Java, or Cloudflare**
 - ⚡ Fun fact: I started coding because I wanted to mod my favorite games
