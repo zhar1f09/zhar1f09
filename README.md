@@ -2,9 +2,13 @@
   <img src="banner.png" width="100%" alt="banner" />
 </div>
 
+<div align="center">
+  <i>✨ “Don't wait for tomorrow's motivation to finish today's vision.” ✨</i>
+</div>
+
 ---
 
-<br>
+### Socials
 
 <div align="center">
     <a href="https://discordapp.com/users/1039160061689352294">
@@ -39,7 +43,3 @@ I focus on creating smooth user experiences, and system that works.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
-<div align="center">
-  <i>✨ “Don't wait for tomorrow's motivation to finish today's vision.” ✨</i>
-</div>
