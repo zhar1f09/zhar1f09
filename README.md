@@ -8,7 +8,9 @@
 
 ---
 
-### Socials
+<div align="center">
+<i>### Socials</i>
+</div> 
 
 <div align="center">
     <a href="https://discordapp.com/users/1039160061689352294">
