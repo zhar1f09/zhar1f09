@@ -2,9 +2,7 @@
   <img src="banner.png" width="100%" alt="banner" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D3748&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zhar+%F0%9F%8C%B8;Digital+Coder+%7C+Developer+%7C+Designer;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG" />
-</div>
+---
 
 <br>
 
