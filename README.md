@@ -42,6 +42,4 @@ I focus on creating smooth user experiences, and system that works.
 
 <div align="center">
   <i>✨ “Don't wait for tomorrow's motivation to finish today's vision.” ✨</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=zhar1f09&style=flat-square&color=gray&label=visitors" alt="visitors" />
 </div>
