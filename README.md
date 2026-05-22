@@ -7,13 +7,13 @@
 <br>
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/zhar1f09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Followers" />
-  <img src="https://custom-icon-badges.demolab.com/github/stars/zhar1f09?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="Stars" />
-  <a href="https://discordapp.com/users/1039160061689352294">
+    <a href="https://discordapp.com/users/1039160061689352294">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/zhar1f09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/zhar1f09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/zhar1f09?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="Stars" />
+  <a href="https://www.roblox.com/users/423486876/profile">
+    <img src="https://img.shields.io/badge/-Roblox-black?style=for-the-badge&logo=roblox=white" />
   </a>
 </div>
 
