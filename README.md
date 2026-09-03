@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-<i>**Socials**</i>
+<i># Socials</i>
 </div> 
 
 <div align="center">
